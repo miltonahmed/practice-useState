@@ -18,7 +18,7 @@ const Counter = () => {
   };
 
   return (
-    <div className="bg-white shadow-md p-6 rounded w-full max-w-md text-center">
+    <div className="bg-white shadow-md p-6 rounded w-full max-w-md text-center ">
       {/* Count display */}
       <h2 className="text-2xl font-semibold mb-4 text-blue-600">
         Counter Value: <span className="text-black">{count}</span>
